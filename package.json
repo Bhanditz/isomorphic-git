@@ -54,7 +54,7 @@
     "buffercursor": "0.0.12",
     "crc": "^3.5.0",
     "debug": "^3.1.0",
-    "diff-lines": "^1.1.0",
+    "diff-lines": "^1.1.1",
     "git-apply-delta": "0.0.7",
     "git-list-pack": "0.0.10",
     "ignore": "^3.3.7",
